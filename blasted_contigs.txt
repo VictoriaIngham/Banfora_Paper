@@ -1,0 +1,114 @@
+k141_120661	433	gi|1543010584|gb|CP034594.1|	4239228	433	100	0	Elizabethkingia anophelis isolate Ngousso chromosome	1117645
+k141_458481	227	gi|27651688|emb|BX023737.1|	922	227	95.595	6.56E-97	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAA36BA06 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_361965	410	gi|27645190|emb|BX071909.1|	883	410	96.585	0	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAC9CE09 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_176971	227	gi|27599717|emb|BX026436.1|	384	230	95.217	3.05E-95	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA4CH04 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_345878	448	gi|239804838|gb|CP001636.1|	1128644	451	87.583	1.02E-142	"Variovorax paradoxus S110 chromosome 2, complete sequence"	543728
+k141_16090	354	gi|68697230|emb|CR954256.1|	447895	356	83.989	5.11E-85	"Anopheles gambiae Pen-1 region; BAC clones 30N20, 10K02, 13E09, 31J16 and 01G10 from library NotreDame1 of Anopheles gambiae (African malaria mosquito) strain PEST"	7165
+k141_120665	545	gi|966533409|gb|CP012350.1|	2530708	545	99.633	0	"Cutibacterium acnes strain PA_30_2_L1 chromosome, complete genome"	1747
+k141_386096	326	gi|27630298|emb|BX057017.1|	705	327	96.33	1.98E-148	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAC36DB08 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_104578	302	gi|1110981648|gb|CP013290.1|	3401189	302	93.046	4.07E-120	"Janibacter indicus strain YFY001, complete genome"	857417
+k141_273493	580	gi|1560905418|gb|CP032232.1|	62568927	494	86.437	2.22E-145	Anopheles stephensi strain SDA-500 chromosome 2R	30069
+k141_442399	484	gi|27572426|emb|BX023206.1|	948	487	88.706	2.34E-154	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA35BH11 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_88490	392	gi|938453861|gb|KR610411.1|	96287	349	89.112	5.48E-115	"Anopheles gambiae clone BAC46I18 genomic sequence, complete sequence"	7165
+k141_209148	244	gi|27651794|emb|BX023843.1|	411	246	94.715	1.18E-99	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA36BF04 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_466528	327	gi|27606829|emb|BX033548.1|	916	326	91.411	2.68E-117	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA5AC12 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_32182	232	gi|27568379|emb|BX019159.1|	874	238	96.639	1.11E-104	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA29AE12 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_490663	523	gi|19571838|emb|AJ438610.1|	129642	535	92.897	0	"Anopheles gambiae DNA from chromosome 2R, BAC clone 4F11"	7165
+k141_353926	577	gi|1681032767|dbj|AP019723.1|	2494738	577	100	0	"Cutibacterium acnes subsp. acnes NBRC 107605 DNA, complete genome"	1734925
+k141_160884	445	gi|27610308|emb|BX037027.1|	948	446	96.637	0	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAA9BC04 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_289583	727	gi|28569868|dbj|AB090817.1|	5075	607	97.694	0	"Anopheles gambiae retrotransposon R6Ag1 DNA, complete sequence"	7165
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	309	87.702	1.19E-90	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	319	87.147	5.56E-89	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	313	87.22	5.56E-89	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	307	87.296	2.00E-88	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	302	87.417	2.58E-87	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	314	86.624	1.20E-85	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	313	86.581	4.33E-85	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	309	86.084	2.01E-83	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	309	86.408	2.01E-83	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	290	86.552	5.63E-79	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	303	85.479	9.43E-77	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	288	86.111	3.39E-76	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	286	86.014	5.67E-74	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	276	85.507	2.06E-68	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	266	85.714	9.56E-67	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_337839	305	gi|1056740342|tpe|HF933217.1|	29412213	249	84.337	2.70E-57	"TPA_asm: Oryzias latipes strain Hd-rR, complete genome assembly, chromosome 11"	8090
+k141_418275	315	gi|1197431337|gb|CP021366.1|	4077222	311	91.64	9.24E-117	"Acidovorax sp. P4, complete genome"	553814
+k141_361974	226	gi|27636100|emb|BX062819.1|	997	193	95.337	4.01E-79	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAC44BB10 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_434360	288	gi|1614056727|emb|LR584429.1|	55161844	299	87.291	5.24E-84	"Salmo trutta genome assembly, chromosome: 20"	8032
+k141_434360	288	gi|1614056727|emb|LR584429.1|	55161844	297	86.869	3.16E-81	"Salmo trutta genome assembly, chromosome: 20"	8032
+k141_434360	288	gi|1614056727|emb|LR584429.1|	55161844	295	86.102	4.11E-75	"Salmo trutta genome assembly, chromosome: 20"	8032
+k141_434360	288	gi|1614056727|emb|LR584429.1|	55161844	283	86.219	2.47E-72	"Salmo trutta genome assembly, chromosome: 20"	8032
+k141_434360	288	gi|1614056727|emb|LR584429.1|	55161844	291	84.88	2.49E-67	"Salmo trutta genome assembly, chromosome: 20"	8032
+k141_434360	288	gi|1614056727|emb|LR584429.1|	55161844	305	83.934	4.17E-65	"Salmo trutta genome assembly, chromosome: 20"	8032
+k141_434360	288	gi|1614056727|emb|LR584429.1|	55161844	268	85.448	6.98E-63	"Salmo trutta genome assembly, chromosome: 20"	8032
+k141_434360	288	gi|1614056727|emb|LR584429.1|	55161844	306	83.333	6.98E-63	"Salmo trutta genome assembly, chromosome: 20"	8032
+k141_434360	288	gi|1614056727|emb|LR584429.1|	55161844	251	85.657	4.20E-60	"Salmo trutta genome assembly, chromosome: 20"	8032
+k141_434360	288	gi|1614056727|emb|LR584429.1|	55161844	270	80.741	4.29E-45	"Salmo trutta genome assembly, chromosome: 20"	8032
+k141_225238	331	gi|1681032767|dbj|AP019723.1|	2494738	331	100	3.25E-171	"Cutibacterium acnes subsp. acnes NBRC 107605 DNA, complete genome"	1734925
+k141_386107	484	gi|4099806|gb|U89801.1|AGU89801	2251	417	88.729	3.09E-138	"Anopheles gambiae transposon Tsessebe I, transposase pseudogene, complete cds"	7165
+k141_168934	744	gi|170774137|gb|CP001013.1|	4909403	708	81.921	1.70E-157	"Leptothrix cholodnii SP-6 chromosome, complete genome"	395495
+k141_16099	429	gi|27564342|emb|BX015122.1|	1005	429	87.646	1.66E-125	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA22CH06 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_386109	279	gi|27634196|emb|BX060915.1|	851	289	95.502	6.18E-123	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAC41CA03 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_14	270	gi|27627001|emb|BX053720.1|	986	270	96.296	3.58E-120	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAC31CC06 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_176984	203	gi|27599717|emb|BX026436.1|	384	203	98.03	1.24E-93	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA4CH04 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_345884	283	gi|27637728|emb|BX064447.1|	899	282	97.518	2.23E-132	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAC46CH07 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_152845	558	gi|27618212|emb|BX044931.1|	945	564	95.922	0	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAC18DD05 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_32190	532	gi|27559158|emb|BX009938.1|	975	495	96.364	0	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA16AB07 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_56318	208	gi|19577369|emb|AJ439060.1|	147295	208	96.635	2.77E-90	"Anopheles gambiae DNA from 2R chromosome, clone 11N17"	7165
+k141_490673	471	gi|27637558|emb|BX064277.1|	943	395	91.899	1.06E-152	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAC46CA02 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_313731	403	gi|1543010584|gb|CP034594.1|	4239228	403	100	0	Elizabethkingia anophelis isolate Ngousso chromosome	1117645
+k141_490676	305	gi|1681032767|dbj|AP019723.1|	2494738	305	100	8.42E-157	"Cutibacterium acnes subsp. acnes NBRC 107605 DNA, complete genome"	1734925
+k141_450447	3500	gi|1560905420|gb|CP032234.1|	51436555	2886	80.769	0	Anopheles stephensi strain SDA-500 chromosome 3R	30069
+k141_112634	520	gi|27641940|emb|BX068659.1|	941	530	93.396	0	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAC53AA12 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_128727	1387	gi|19572376|emb|AJ439353.1|	167014	1419	93.446	0	Anopheles gambiae BAC clone 30E5	7165
+k141_386116	813	gi|19571838|emb|AJ438610.1|	129642	817	94.982	0	"Anopheles gambiae DNA from chromosome 2R, BAC clone 4F11"	7165
+k141_378072	267	gi|27623930|emb|BX050649.1|	788	244	97.131	2.77E-111	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAC27BA09 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_72411	334	gi|27616088|emb|BX042807.1|	966	319	96.552	4.40E-145	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAC15AA08 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_217216	306	gi|27570913|emb|BX021693.1|	624	311	93.569	1.48E-124	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAA32AG01 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_337858	338	gi|19571838|emb|AJ438610.1|	129642	338	91.716	7.62E-128	"Anopheles gambiae DNA from chromosome 2R, BAC clone 4F11"	7165
+k141_386120	222	gi|27567319|emb|BX018099.1|	533	230	94.783	1.79E-92	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAA27BE02 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_378074	317	gi|1677501987|ref|NM_002391.5|	854	317	100	1.88E-163	"Homo sapiens midkine (MDK), transcript variant 3, mRNA"	9606
+k141_466538	378	gi|19577369|emb|AJ439060.1|	147295	357	95.798	6.39E-159	"Anopheles gambiae DNA from 2R chromosome, clone 11N17"	7165
+k141_506752	667	gi|27631243|emb|BX057962.1|	934	673	93.908	0	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAC38AE11 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_185043	283	gi|27561603|emb|BX012383.1|	704	291	96.22	6.24E-128	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA19CG01 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_313744	401	gi|27622700|emb|BX049419.1|	782	334	98.204	1.13E-161	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAC25BD11 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_96553	648	gi|1681032767|dbj|AP019723.1|	2494738	648	99.846	0	"Cutibacterium acnes subsp. acnes NBRC 107605 DNA, complete genome"	1734925
+k141_168948	391	gi|27561730|emb|BX012510.1|	1032	395	96.709	0	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAA19DD09 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_329813	312	gi|28569877|dbj|AB090820.1|	6470	289	96.54	1.16E-130	"Anopheles gambiae retrotransposon R7Ag1 DNA, complete sequence"	7165
+k141_185045	748	gi|1033652334|gb|CP011514.1|	5822419	677	86.263	0	"Mitsuaria sp. 7, complete genome"	1658665
+k141_36	416	gi|325699301|gb|HQ860050.1|	1119	417	99.281	0	Anopheles gambiae isolate BC05rainy-6B genomic sequence	7165
+k141_474592	534	gi|27644538|emb|BX071257.1|	496	450	91.333	4.25E-167	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAC8CH06 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_506756	547	gi|6671102|gb|AF170018.1|AF170018	12033	449	88.419	2.70E-144	Anopheles gambiae clone I15 genomic sequence	7165
+k141_40240	374	gi|1681032767|dbj|AP019723.1|	2494738	374	100	0	"Cutibacterium acnes subsp. acnes NBRC 107605 DNA, complete genome"	1734925
+k141_434382	533	gi|966533409|gb|CP012350.1|	2530708	533	99.812	0	"Cutibacterium acnes strain PA_30_2_L1 chromosome, complete genome"	1747
+k141_410256	225	gi|27609340|emb|BX036059.1|	973	226	96.46	5.02E-98	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA7CH02 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_458503	523	gi|1681032767|dbj|AP019723.1|	2494738	523	99.809	0	"Cutibacterium acnes subsp. acnes NBRC 107605 DNA, complete genome"	1734925
+k141_458505	284	gi|27601520|emb|BX028239.1|	952	298	90.94	5.02E-104	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAA42AH04 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_482636	241	gi|27636877|emb|BX063596.1|	353	241	99.17	5.26E-118	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAC45CA12 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_48295	1196	gi|1369125429|gb|MG772934.1|	29732	1195	93.222	0	"Bat SARS-like coronavirus isolate bat-SL-CoVZXC21, complete genome"	1508227
+k141_506761	713	gi|381376528|dbj|AP012320.1|	5043253	721	83.079	9.46E-180	"Rubrivivax gelatinosus IL144 DNA, complete genome"	983917
+k141_160921	301	gi|966533409|gb|CP012350.1|	2530708	301	100	1.39E-154	"Cutibacterium acnes strain PA_30_2_L1 chromosome, complete genome"	1747
+k141_8083	501	gi|19572983|emb|AJ439398.1|	95527	503	90.06	2.36E-174	Anopheles gambiae BAC clone 22J3	7165
+k141_40247	242	gi|27621485|emb|BX048204.1|	840	228	96.491	4.20E-99	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAC23BA05 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_225263	2440	gi|54145420|gb|AY750997.1|	3880	2120	92.877	0	"Anopheles gambiae peritrophin-1 gene, complete cds"	7165
+k141_337869	283	gi|27607242|emb|BX033961.1|	464	288	95.833	1.35E-124	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAA5CF08 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_209180	632	gi|1543010584|gb|CP034594.1|	4239228	632	100	0	Elizabethkingia anophelis isolate Ngousso chromosome	1117645
+k141_56337	239	gi|27621485|emb|BX048204.1|	840	241	94.191	8.97E-96	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAC23BA05 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_177008	1593	gi|1727114013|gb|MK491491.1|	16568	1593	99.937	0	"Homo sapiens isolate 95_WA mitochondrion, complete genome"	9606
+k141_249394	420	gi|325699313|gb|HQ860062.1|	1117	421	99.762	0	Anopheles gambiae isolate BC03dry-7 genomic sequence	7165
+k141_498729	526	gi|966533409|gb|CP012350.1|	2530708	526	99.62	0	"Cutibacterium acnes strain PA_30_2_L1 chromosome, complete genome"	1747
+k141_353960	669	gi|27604604|emb|BX031323.1|	906	571	96.147	0	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA46CH07 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_378103	206	gi|27570722|emb|BX021502.1|	589	206	98.544	5.85E-97	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA31DE08 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_506765	361	gi|1681032767|dbj|AP019723.1|	2494738	361	100	0	"Cutibacterium acnes subsp. acnes NBRC 107605 DNA, complete genome"	1734925
+k141_474613	319	gi|966533409|gb|CP012350.1|	2530708	319	100	1.46E-164	"Cutibacterium acnes strain PA_30_2_L1 chromosome, complete genome"	1747
+k141_80467	1387	gi|966533409|gb|CP012350.1|	2530708	1387	99.495	0	"Cutibacterium acnes strain PA_30_2_L1 chromosome, complete genome"	1747
+k141_297657	965	gi|971166764|gb|CP013729.1|	5681722	971	84.861	0	"Roseateles depolymerans strain KCTC 42856, complete genome"	76731
+k141_217245	323	gi|159642|gb|M93689.1|MSQT1RET	4634	323	96.904	4.21E-150	"Anopheles gambiae strain G3 retrotransposon T1, complete sequence"	7165
+k141_96572	261	gi|27651788|emb|BX023837.1|	903	261	99.234	4.40E-129	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 5-PRIME end of clone FK0AAA36BF01 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_177019	419	gi|78101792|tpg|BK005280.1|	23207	418	96.172	0	"TPA_inf: Anopheles gambiae str. PEST troponin I (TpnI) gene, complete cds, alternatively spliced"	180454
+k141_168976	203	gi|27561730|emb|BX012510.1|	1032	203	98.522	2.68E-95	Single read from an extremity of a full-length cDNA clone made from Anopheles gambiae total adult females. 3-PRIME end of clone FK0AAA19DD09 of strain 6-9 of Anopheles gambiae (African malaria mosquito)	7165
+k141_120716	276	gi|1560905421|gb|CP032235.1|	40352812	275	93.091	1.73E-108	Anopheles stephensi strain SDA-500 chromosome 3L	30069
+k141_386138	518	gi|1468136964|gb|CP031877.1|	6869565	470	87.234	1.97E-145	Pseudomonas aeruginosa strain WPB100 chromosome	287
+k141_273523	435	gi|19577369|emb|AJ439060.1|	147295	440	94.091	0	"Anopheles gambiae DNA from 2R chromosome, clone 11N17"	7165
+k141_24164	251	gi|19571838|emb|AJ438610.1|	129642	254	95.276	2.01E-107	"Anopheles gambiae DNA from chromosome 2R, BAC clone 4F11"	7165
