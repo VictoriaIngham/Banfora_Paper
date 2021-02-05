@@ -1,4 +1,4 @@
-## Code used in Ingham et al. 20201
+## Code used in Ingham et al. 2021
 
 Custom R code used for investigating the evolution of resistance in an Anophles coluzzii colony from Banfora, Burkina Faso
 
